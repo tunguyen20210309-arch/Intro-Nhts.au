@@ -1,0 +1,1 @@
+feat(trang-chu): hoàn thiện giao diện ban đầu của website bao gồm thanh điều hướng, phần giới thiệu, bố cục đáp ứng trên nhiều thiết bị, cấu hình dự án và các thành phần giao diện cơ bản phục vụ cho quá trình phát triển tiếp theo
