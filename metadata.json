@@ -1,0 +1,6 @@
+{
+  "name": "Nhts.Au",
+  "description": "Cinematic hero section with fullscreen video background, glassmorphic navigation, and refined typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
